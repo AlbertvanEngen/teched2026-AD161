@@ -1,31 +1,28 @@
-# Containing Files
-
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
-
-2. The REUSE.toml file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the REUSE.toml in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
-
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# Session ID - Session Title
+# AD161 - Build and operate agentic solutions with Joule Studio
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2026 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2026 session called AD161 - Build and operate agentic solutions with Joule Studio  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to SAP Joule Studio. In this session attendees would build, deploy, operate and interact with agentic solutions using SAP Joule Studio.    
+
+
+| Exercise | Topic | Estimated Time |
+| :---         | :---         | :---         |
+| Text         |      Text    |          Tex |
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+- Joule Work connected to a S/4 HANA Public Cloud
+- Joule Studio
+- Browser on the laptop (Chrome)
+
+> All required tools and services have been pre-configured. You would need a browser to get through this session
 
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
