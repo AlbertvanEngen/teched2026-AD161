@@ -29,7 +29,7 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 
 ## Exercises
 
-- [Getting Started](exercises/ex0/)
+- [Getting Started - Overview & Quick Check](exercises/ex0/)
 - [Exercise 1 - Invoke Agents by interacting with Joule Work](exercises/ex1/)
 - [Exercise 2 - Monitor Solutions and Agents with Joule Studio](exercises/ex2/)
 - [Exercise 3 - Build, Test, Deploy and Operate an agentic solution with Joule Studio](exercises/ex3/)
