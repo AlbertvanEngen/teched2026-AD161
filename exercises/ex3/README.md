@@ -7,11 +7,13 @@ In this exercise, we will create a soluton that would comprise of an agent and m
 After completing these steps you would have created a solution that comprise of an agent and mcp servers that would interact with S/4HANA Public Cloud to retrieve information on products. 
 
 1. Log-in to Joule Work & Navigate to Joule Studio
+   ![](../images/1.JouleStudio.png)
 
 2. Create a new Solution
     - Name: Read products from S/4HANA
     - Description: An AI agent that enables Sales Representatives to ask natural language questions about product master data from SAP S/4HANA and receive instant, accurate answers.
     - Ensure that "Quick Create" is not checked
+    ![](../images/2.CreateANewSolution.png)
 
 3. Interact with the Joule Studio Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent
 
