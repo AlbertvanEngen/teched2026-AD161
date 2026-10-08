@@ -17,37 +17,37 @@ After completing these steps you would have created a solution that comprise of 
 
 3. Interact with the Joule Studio Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent
 
-    - Which types of product information should Sales Representatives be able to ask about? **Specify**: Basic Product Details
+    - Which types of product information should Sales Representatives be able to ask about? **Specify**: `Basic Product Details`
       ![](./images/3.ClarifyingQuestions-1.png)
 
-    - What is the main pain point that drives this need? **Specify**: Sales reps waste time switching between SAP screens to find the product
+    - What is the main pain point that drives this need? **Specify**: `Sales reps waste time switching between SAP screens to find the product`
       ![](./images/4.ClarifyingQuestions-2.png)
     
-    - What does success look like? **Specify**: Reduce time from to find product info (from 5 mins to under 30 seconds)
+    - What does success look like? **Specify**: `Reduce time from to find product info (from 5 mins to under 30 seconds)`
 
-    - Do you have a baseline? **Specify**: Baseline is 5 mins
+    - Do you have a baseline? **Specify**: `Baseline is 5 mins`
 
-    - What target response time? **Specify**: Under 30 seconds - within 3 months
+    - What target response time? **Specify**: `Under 30 seconds - within 3 months`
 
-    - Does this look correct? **Specify**: Confirm
+    - Does this look correct? **Specify**: `Confirm`
 
-    - Please review the summary above. Does everything look correct, or would you like to adjust anything before I write the intent document? **Specify**: Confirm proceed with intent.md
+    - Please review the summary above. Does everything look correct, or would you like to adjust anything before I write the intent document? **Specify**: `Confirm proceed with intent.md`
       ![](./images/9.ClarifyingQuestions-7.png)
 
 4. Interact with the Joule Studio Agent to create the Product Requirements Document
 
-    - Would you like to proceed to generating the Product Requirements Document (PRD), which will turn this intent into a detailed set of requirements for building the agent? **Specify**: Yes
+    - Would you like to proceed to generating the Product Requirements Document (PRD), which will turn this intent into a detailed set of requirements for building the agent? **Specify**: `Yes`
       ![](./images/10.GeneratePRD.png)
 
-    - Does this PRD plan look correct? Shall I proceed with writing the full document? **Specify**: Confrim - write PRD
+    - Does this PRD plan look correct? Shall I proceed with writing the full document? **Specify**: `Confrim - write PRD`
 
 5. Interact with the Joule Studio Agent to create the Specification that explains how the intent and PRD can be realized 
-    - The natural next step is the Specification phase, where the PRD is turned into a detailed, actionable build checklist. Would you like to proceed? **Specify**: Proceed with Specification
+    - The natural next step is the Specification phase, where the PRD is turned into a detailed, actionable build checklist. Would you like to proceed? **Specify**: `Proceed with Specification`
       ![](./images/12.CreateSpec.png)
 
 6. Interact with Joule Studio Agent to build the solution based on the Specification, PRD and Intent
 
-    - You can review and adjust the spec files before building. When ready, say "execute specification/specification.md" to start the implementation. **Specify**: execute specification/specification.md
+    - You can review and adjust the spec files before building. When ready, say "execute specification/specification.md" to start the implementation. **Specify**: `execute specification/specification.md`
       ![](./images/13.ExecuteSpec.png)
 
 ## Exercise 2.2 Observe the artifacts created and explore the tests generated
@@ -84,7 +84,7 @@ After completing these steps you will have learnt how to test your agent that do
 After completing these steps you will learn how to deploy and understand the status of your solution and artifacts within the solution
 
 1. Interact with the Joule Studio Agent to deploy the solution	
-    - When you're ready to deploy, just say "deploy". **Specify**: deploy
+    - When you're ready to deploy, just say "deploy". **Specify**: `deploy`
       ![](./images/20.DeploySolution.png)  
 
 2. Navigate to Manage > Overview to understand the status of the solution and agent and wait for the deployment to complete
