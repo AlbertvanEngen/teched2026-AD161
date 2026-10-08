@@ -6,12 +6,16 @@ This repository contains the material for the SAP TechEd 2026 session called AD1
 
 ## Overview
 
-This session introduces attendees to SAP Joule Studio. In this session attendees would build, deploy, operate and interact with agentic solutions using SAP Joule Studio.    
+This session introduces attendees to SAP Joule Studio. In this session attendees would build, deploy, operate and interact with agentic solutions using Joule Studio and Joule Work. 
 
 
 | Exercise | Topic | Estimated Time |
-| :---         | :---         | :---         |
-| Text         |      Text    |          Tex |
+| :---         | :---         | :--- |
+| Getting Started | Overview & Quick Check  | 10 mins |
+| Exercise 1 | Invoke Agents by interacting with Joule Work | 10 mins |
+| Exercise 2 | Monitor Solutions and Agents with Joule Studio | 10 mins |
+| Exercise 3 | Build, Test, Deploy and Operate an agentic solution with Joule Studio | 60 mins  | 
+| Exercise 4 | (Optional) Push your agentic solutions to git and promote to production | 20 mins |   
 
 
 ## Requirements
@@ -19,6 +23,7 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 - Joule Work connected to a S/4 HANA Public Cloud
 - Joule Studio
 - Browser on the laptop (Chrome)
+- Exercise 4 would need to get your own git repository
 
 > All required tools and services have been pre-configured. You would need a browser to get through this session
 
@@ -32,14 +37,6 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
