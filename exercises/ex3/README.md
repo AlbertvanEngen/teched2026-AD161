@@ -108,23 +108,27 @@ After completing these steps you will learn test your agent as an end user.
     - List top 5 products sold last month
 
 3. Navigate to Conversations and interact with you with the following conversations and observe it's response
-    - List 5 products
 
-    - List top 5 products sold last month
+    - Use @product-master-data-agent to `List 5 products`
+
+    - Use @product-master-data-agent () to `List top 5 products sold last month`
+
+    - Note: you can get the agent name from the Solution > Manage > Overview
+      <br>![](./images/24.AgentName.png)
 
 ## Exercise 2.6 Monitor your Agent
 
 After completing these steps you will learn how your agent is performing in the real world. You can monitor and understand it's success rate and get details of each execution.
 
-1. Navigate to Manage > Monitoring & Analytics > Agent > Monitoring
+1. Navigate to Manage > Monitoring & Analytics > roduct-master-data-agent > Monitoring
 
-2. Navigate to Manage > Monitoring & Analytics > Agent > Traces
+2. Navigate to Manage > Monitoring & Analytics > roduct-master-data-agent > Traces
 
-3. Navigate to Manage > Monitoring & Analytics > Agent > Monitoring > Explore a single trace
+3. Navigate to Manage > Monitoring & Analytics > roduct-master-data-agent > Monitoring > Explore a single trace
 
 
 ## Summary
 
 You've now created a soltion comprising of an agent and mcp server. You now understand the different steps, the lifecycle and are in a position to deploy, run and monitor the solution and agent. 
 
-Continue to - [Exercise 4 - ](../ex4/README.md)
+Continue to - [Exercise 4 - Push your agentic solutions to git and promote to production](../ex4/README.md)
