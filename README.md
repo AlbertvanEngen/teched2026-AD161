@@ -11,12 +11,10 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 
 | Exercise | Topic | Estimated Time |
 | :---         | :---         | :--- |
-| Getting Started | Overview & Quick Check  | 10 mins |
-| Exercise 1 | Invoke Agents by interacting with Joule Work | 10 mins |
-| Exercise 2 | Monitor Solutions and Agents with Joule Studio | 10 mins |
+| Exercise 1 | Invoke Agents by interacting with Joule Work | 15 mins |
+| Exercise 2 | Monitor Solutions and Agents with Joule Studio | 15 mins |
 | Exercise 3 | Build, Test, Deploy and Operate an agentic solution with Joule Studio | 60 mins  | 
 | Exercise 4 | (Optional) Push your agentic solutions to git and promote to production | 20 mins |   
-
 
 ## Requirements
 
@@ -29,12 +27,10 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 
 ## Exercises
 
-- [Getting Started - Overview & Quick Check](exercises/ex0/)
 - [Exercise 1 - Invoke Agents by interacting with Joule Work](exercises/ex1/)
 - [Exercise 2 - Monitor Solutions and Agents with Joule Studio](exercises/ex2/)
 - [Exercise 3 - Build, Test, Deploy and Operate an agentic solution with Joule Studio](exercises/ex3/)
 - [Exercise 4 - Push your agentic solutions to git and promote to production](exercises/ex4/)
-
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.

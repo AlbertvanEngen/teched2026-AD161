@@ -1,44 +1,36 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Invoke Agents by interacting with Joule Work
 
-In this exercise, we will create...
+In this exercise, we will learn how to interact with agents via Joule Work and this would help you understand the broader picture on how end users would work with agents in an ineractive manner.
 
-## Exercise 1.1 Sub Exercise 1 Description
+# Exercise 1.1 - Invoke Feedback Classifier Agent by interacting with Joule Work
 
-After completing these steps you will have created...
+1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with ad161-0XX and the provided password
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+2. Select Joule Work > Conversations > + New and start a new Conversation
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+3. In a new conversation ask Joule to classiy sentiment using an existing agent "use @feedback-classifier-agent to classify sentiment  "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."
+   <br>![](./images/1.ClassifySentiment.png)
+
+4. Observe it's response
+   <br>![](./images/2.JouleResponse.png)
+
+5. Explore the response details which includes the steps it took and the references it made use of
+    <br>![](./images/3.JouleResponse-Insights-Steps.png)
+    <br>![](./images/4.JouleResponse-Insights-References.png)
 
 
+# Exercise 1.2 - Invoke  by interacting with Joule Work
 
-## Exercise 1.2 Sub Exercise 2 Description
+1. Start a new Conversation by selecting Joule Work > Conversations > + New and start a new Conversation
 
-After completing these steps you will have...
+3. In a new conversation ask Joule to list products using Product Information Agent "use @product-information-agent to list products"
+   <br>![](./images/5.listProducts.png)
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+4. Observe it's response, response details, steps it took and references it made use of
 
 
 ## Summary
 
-You've now ...
+You've now interacted with Joule to invoke agents that have been created and deployed. 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
+Continue to - [Exercise 2 - Monitor Solutions and Agents with Joule Studio](../ex2/README.md)
