@@ -113,7 +113,9 @@ After completing these steps you will learn test your agent as an end user.
 
     - Use @product-master-data-agent () to `List top 5 products sold last month`
 
-    - Note: you can get the agent name from the Solution > Manage > Overview
+    ```
+    Note: you can get the agent name from the Solution > Manage > Overview
+    ```
       <br>![](./images/24.AgentName.png)
 
 ## Exercise 2.6 Monitor your Agent

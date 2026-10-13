@@ -1,14 +1,12 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 4 - Push your agentic solutions to git and promote to production
 
-In this exercise, we will create...
+In this exercise, we will push your solution to git and learn how to promote it to production
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Push Solution to Git
 
-After completing these steps you will have created...
+After completing these steps you will have learnt how to connect your solution to git and push changes to git
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
+1. 
 2.	Insert this line of code.
 ```abap
 response->set_text( |Hello ABAP World! | ). 
@@ -16,9 +14,9 @@ response->set_text( |Hello ABAP World! | ).
 
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 Promote Solution to Production
 
-After completing these steps you will have...
+After completing these steps you will have learnt how to promote to production
 
 1.	Enter this code.
 ```abap
