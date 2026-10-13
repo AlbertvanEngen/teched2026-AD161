@@ -1,42 +1,50 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Monitor Solutions and Agents with Joule Studio
 
-In this exercise, we will create...
+In this exercise, we will monitor deployed solutions and step into agent monitoring and traces
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Solution Status
 
-After completing these steps you will have created...
+After completing these steps you will learn how to understand if the solution and comprising agent is running, deployment history and if invocations have been successful. 
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with ad161-0XX and the provided password
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+2. Select Joule Work > Joule Studio > Stentiment Agent
+   <br>![](./images/1.SelectSentimentAgent.png)
 
+3. Switch from Develop to Manage and explore the status of the solution, completed runs & failures and try out the agent by clicking on 'Try Now'
+    <br>![](./images/2.SwitchToManage.png)
 
+    <br>![](./images/3.ObserveCurrentStatusAndMonitoring.png)
 
-## Exercise 2.2 Sub Exercise 2 Description
+    <br>![](./images/4.SelectTryOutAndMonitor.png)
 
-After completing these steps you will have...
+4. Select Deployment History to understand the past deployments and their status 
+    <br>![](./images/5.DeploymentHistory.png)
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+## Exercise 2.2 Agent Monitoring
 
-```
+After completing these steps you will learn how to monitor agents and get into details of a single invocation
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+1. Navigate into the deployed agent - feedback-classifier-agent > Monitoring and learn about aggregated information around the agent
+    <br>![](./images/6.AgentMonitoring.png)
+
+2. Navigate into the deployed agent - feedback-classifier-agent > Traces to learn about the indivisual invocations
+    <br>![](./images/7.AgentTraces.png)
+
+3. Navigate into the deployed agent - feedback-classifier-agent > Traces > Specific Trace to learn more about a single agent invocation
+    <br>![](./images/8.AgentTraceDetails.png)
+
+## 2.3 Solution Status and Agent Monitoring of Solution 'Read products from S/4HANA'
+
+1. Select Joule Work > Joule Studio > Read products from S/4HANA
+    <br>![](./images/9.SolutionReadProductsFromS4.png)
+
+2. Observe the solution status, agent status and monitor the agent 'product-information-agent'
+    <br>![](./images/10.MonitorProductionInformationAgent.png)
+
 
 ## Summary
 
-You've now ...
+You've now understand how to check the current status of the solution and it's artifacts. You know how to test out the solution and monitor a solution.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Build, Test, Deploy and Operate an agentic solution with Joule Studio](../ex3/README.md)
