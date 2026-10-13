@@ -109,9 +109,9 @@ After completing these steps you will learn test your agent as an end user.
 
 3. Navigate to Conversations and interact with you with the following conversations and observe it's response
 
-    - Use @product-master-data-agent to `List 5 products`
+    - Use @product-master-data-agent (agent name) to `List 5 products`
 
-    - Use @product-master-data-agent () to `List top 5 products sold last month`
+    - Use @product-master-data-agent (agent name) to `List top 5 products sold last month`
 
     ```
     Note: you can get the agent name from the Solution > Manage > Overview
