@@ -2,7 +2,7 @@
 
 In this exercise, we will create a soluton that would comprise of an agent and mcp servers that would interact with S/4HANA Public Cloud to retrieve information on products. The solution would then be tested, deployed & monitored. You will also interact with the agent that you created in Joule Work Conversations. 
 
-## Exercise 2.1 Create a solution via Joule Studio
+## Exercise 3.1 Create a solution via Joule Studio
 
 After completing these steps you would have created a solution that comprise of an agent and mcp servers that would interact with S/4HANA Public Cloud to retrieve information on products. 
 
@@ -50,7 +50,7 @@ After completing these steps you would have created a solution that comprise of 
     - You can review and adjust the spec files before building. When ready, say "execute specification/specification.md" to start the implementation. **Specify**: `execute specification/specification.md`
       <br>![](./images/13.ExecuteSpec.png)
 
-## Exercise 2.2 Observe the artifacts created and explore the tests generated
+## Exercise 3.2 Observe the artifacts created and explore the tests generated
 
 After completing these steps you will have learnt more about the agent and mcp server created and the generated automated tests
 
@@ -66,7 +66,7 @@ After completing these steps you will have learnt more about the agent and mcp s
 
 4. Navigate to File tree and observe the files created for the solution
 
-## Exercise 2.3 Test your Agent
+## Exercise 3.3 Test your Agent
 
 After completing these steps you will have learnt how to test your agent that does not hit the backend systems
 
@@ -79,7 +79,7 @@ After completing these steps you will have learnt how to test your agent that do
     - List top 5 products sold last month
       <br>![](./images/19.TestAgent-2.png)  
 
-## Exercise 2.4 Deploy your Agent
+## Exercise 3.4 Deploy your Agent
 
 After completing these steps you will learn how to deploy and understand the status of your solution and artifacts within the solution
 
@@ -93,7 +93,7 @@ After completing these steps you will learn how to deploy and understand the sta
 3. Navigate to Manage > Deployment History to understand the state of the current and past deployments
       <br>![](./images/22.DeploymentHistory.png)  
 
-## Exercise 2.5 Try out your Agent with Joule Studio and Joule Work Convesations
+## Exercise 3.5 Try out your Agent with Joule Studio and Joule Work Convesations
 
 After completing these steps you will learn test your agent as an end user. 
 
@@ -118,7 +118,7 @@ After completing these steps you will learn test your agent as an end user.
     ```
       <br>![](./images/24.AgentName.png)
 
-## Exercise 2.6 Monitor your Agent
+## Exercise 3.6 Monitor your Agent
 
 After completing these steps you will learn how your agent is performing in the real world. You can monitor and understand it's success rate and get details of each execution.
 
