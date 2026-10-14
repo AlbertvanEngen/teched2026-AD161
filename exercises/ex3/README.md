@@ -11,9 +11,9 @@ After completing these steps you would have created a solution that comprise of 
    <br>![](./images/1.JouleStudio.png)
 
 2. Create a new Solution
-    - Name: Read product information from S/4HANA
-    - Description: An AI agent that enables Sales Representatives to ask natural language questions about product master data from SAP S/4HANA and receive instant, accurate answers.
-    - Ensure that "Quick Create" is not checked
+    - Name: `Read product information from S/4HANA`
+    - Description: `An AI agent that enables Sales Representatives to ask natural language questions about product master data from SAP S/4HANA and receive instant, accurate answers.`
+    - Ensure that `"Quick Create"` is `not checked`
     <br>![](./images/2.CreateANewSolution.png)
 
 3. Interact with the Joule Studio Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent
