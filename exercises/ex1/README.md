@@ -9,12 +9,15 @@ In this exercise, we will learn how to interact with agents via Joule Work and t
 2. Select Joule Work > Conversations > + New and start a new Conversation
 
 3. In a new conversation ask Joule to classiy sentiment using an existing agent`use @feedback-classifier-agent to classify sentiment "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."`
+   <br>
    <br>![](./images/1.ClassifySentiment.png)
 
 4. Observe it's response
+   <br>
    <br>![](./images/2.JouleResponse.png)
 
 5. Explore the response details which includes the steps it took and the references it made use of
+    <br>
     <br>![](./images/3.JouleResponse-Insights-Steps.png)
     <br>
     <br>![](./images/4.JouleResponse-Insights-References.png)
@@ -25,6 +28,7 @@ In this exercise, we will learn how to interact with agents via Joule Work and t
 1. Start a new Conversation by selecting Joule Work > Conversations > + New and start a new Conversation
 
 3. In a new conversation ask Joule to list products using Product Information Agent `"use @product-information-agent to list products"`
+   <br>
    <br>![](./images/5.listProducts.png)
 
 4. Observe it's response, response details, steps it took and references it made use of
