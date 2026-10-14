@@ -139,11 +139,11 @@ After completing these steps you will learn test your agent as an end user.
 
 After completing these steps you will learn how your agent is performing in the real world. You can monitor and understand it's success rate and get details of each execution.
 
-1. Navigate to Manage > Monitoring & Analytics > product-master-data-agent > Monitoring
+1. Navigate to Manage > Monitoring & Analytics > product-master-data-agent (agent name) > Monitoring
 
-2. Navigate to Manage > Monitoring & Analytics > product-master-data-agent > Traces
+2. Navigate to Manage > Monitoring & Analytics > product-master-data-agent (agent name) > Traces
 
-3. Navigate to Manage > Monitoring & Analytics > product-master-data-agent > Monitoring > Explore a single trace
+3. Navigate to Manage > Monitoring & Analytics > product-master-data-agent (agent name) > Monitoring > Explore a single trace
 
 
 ## Summary
