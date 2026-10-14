@@ -15,7 +15,6 @@ After completing these steps you will learn how to understand if the solution an
 3. Switch from Develop to Manage and explore the status of the solution, completed runs & failures
     <br>
     <br>![](./images/2.SwitchToManage.png)
-
     <br>
     <br>![](./images/3.ObserveCurrentStatusAndMonitoring.png)
 
