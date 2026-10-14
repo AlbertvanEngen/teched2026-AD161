@@ -8,7 +8,7 @@ In this exercise, we will learn how to interact with agents via Joule Work and t
 
 2. Select Joule Work > Conversations > + New and start a new Conversation
 
-3. In a new conversation ask Joule to classiy sentiment using an existing agent`use @feedback-classifier-agent to classify sentiment  "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."`
+3. In a new conversation ask Joule to classiy sentiment using an existing agent`use @feedback-classifier-agent to classify sentiment "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."`
    <br>![](./images/1.ClassifySentiment.png)
 
 4. Observe it's response
