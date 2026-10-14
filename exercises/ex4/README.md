@@ -2,10 +2,7 @@
 
 In this exercise, we will push your solution to git and learn how to promote it to production
 
-```
-  Note: You would need a user in GitHub and an Organization to proceed with this exercise.  
-```
-
+> **Note:** You would need a user in GitHub and an Organization to proceed with this exercise.
 
 ## Exercise 2.1 Push Solution to Git
 
