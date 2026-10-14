@@ -52,9 +52,7 @@ After completing these steps you will have learnt how to connect your solution t
       <br>
       <br>![](./images/9.RunWokflowToPromoteToProduction.png)  
 
-    ```
-    Note: The deployment job would fail as the needed configurations and the production landscape is not connected. For more details see https://help.sap.com/docs/joule-studio/joule-studio/promoting-solution-to-production.  
-    ```
+ > **Note:** The deployment job would fail as the needed configurations and the production landscape is not connected. For more details see  https://help.sap.com/docs/joule-studio/joule-studio/promoting-solution-to-production.
 
 
 ## Summary
