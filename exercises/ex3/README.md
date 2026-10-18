@@ -109,7 +109,7 @@ After completing these steps you will learn how to deploy and understand the sta
       <br>
       <br>![](./images/22.DeploymentHistory.png)  
 
-## Exercise 3.5 Try out your Agent with Joule Studio and Joule Work Convesations
+## Exercise 3.5 Try out your Agent with Joule Studio and Joule Work Conversations
 
 After completing these steps you will learn test your agent as an end user. 
 
