@@ -44,7 +44,7 @@ After completing these steps you would have created a solution that comprise of 
       <br>
       <br>![](./images/10.GeneratePRD.png)
 
-    - Does this PRD plan look correct? Shall I proceed with writing the full document? **Specify**: `Confrim - write PRD`
+    - Does this PRD plan look correct? Shall I proceed with writing the full document? **Specify**: `Confirm - write PRD`
 
 5. Interact with the Joule Studio Agent to create the Specification that explains how the intent and PRD can be realized 
     - The natural next step is the Specification phase, where the PRD is turned into a detailed, actionable build checklist. Would you like to proceed? **Specify**: `Proceed with Specification`
