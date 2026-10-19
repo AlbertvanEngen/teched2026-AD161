@@ -20,8 +20,13 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 
 - Joule Work connected to a S/4 HANA Public Cloud
 - Joule Studio
+<<<<<<< HEAD
 - Browser on the laptop (Chrome)
 - Exercise 4 requires you to have your own git repository
+=======
+- Browser on the laptop (preferably Chrome)
+- Exercise 4 would need to get your own git repository
+>>>>>>> c717fb446a6150706eb6d6056dcfd6919600fbab
 
 > All required tools and services have been pre-configured. You need a browser to get through this session
 
