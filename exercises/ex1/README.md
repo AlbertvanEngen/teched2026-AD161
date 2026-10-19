@@ -1,17 +1,17 @@
 # Exercise 1 - Invoke Agents by interacting with Joule Work
 
-In this exercise, we will learn how to interact with agents via Joule Work and this would help you understand the broader picture on how end users would work with agents in an ineractive manner.
+In this exercise, you will learn how to interact with agents via Joule Work and this will help you understand the broader picture on how end users would work with agents in an ineractive manner.
 
 # Exercise 1.1 - Invoke Feedback Classifier Agent by interacting with Joule Work
 
-1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with ad161-0XX and the provided password
+1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with user ad161-0XX and the password provided by the instructor. XX is a placeholder for a number that the instructor assigned to you.
 
-2. Select Joule Work > Conversations > + New and start a new Conversation
+2. Select Joule Work > Conversations > + New and start a new Conversation. You will find the Conversations button in the left side pane.
 
-3. In a new conversation ask Joule to classiy sentiment using an existing agent "use @feedback-classifier-agent to classify sentiment  "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."
+3. In a new conversation ask Joule to classify a sentiment using an existing agent "use @feedback-classifier-agent to classify sentiment  "The latest application update causes the system to crash every time I open the reports tab. This bug is severely disrupting our daily workflow."
    <br>![](./images/1.ClassifySentiment.png)
 
-4. Observe it's response
+4. Observe its response
    <br>![](./images/2.JouleResponse.png)
 
 5. Explore the response details which includes the steps it took and the references it made use of

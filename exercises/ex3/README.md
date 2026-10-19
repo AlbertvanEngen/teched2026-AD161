@@ -11,11 +11,12 @@ After completing these steps you would have created a solution that comprise of 
 
 2. Create a new Solution
     - Name: Read products from S/4HANA
-    - Description: An AI agent that enables Sales Representatives to ask natural language questions about product master data from SAP S/4HANA and receive instant, accurate answers.
+    - Description: An AI agent that enables Sales Representatives to ask natural language questions about product master data from SAP S/4HANA Public Cloud Edition and receive instant, accurate answers.
     - Ensure that "Quick Create" is not checked
     <br>![](./images/2.CreateANewSolution.png)
 
-3. Interact with the Joule Studio Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent
+3. Interact with the Joule Studio Web Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent. 
+> Note that the below are examples what the Joule Studio Web Agent might ask, there might well be other or additional questions and the questions might have varying choices.
 
     - Which types of product information should Sales Representatives be able to ask about? **Specify**: `Basic Product Details`
       <br>![](./images/3.ClarifyingQuestions-1.png)
