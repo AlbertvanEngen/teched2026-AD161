@@ -16,8 +16,9 @@ After completing these steps you would have created a solution that comprise of 
     - Ensure that `"Quick Create"` is `not checked`
     <br>![](./images/2.CreateANewSolution.png)
 
-3. Interact with the Joule Studio Web Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent. 
-> Note that the below are examples what the Joule Studio Web Agent might ask, there might well be other or additional questions and the questions might have varying choices.
+3. Interact with the Joule Studio Web Agent and clarify questions to provide additional context and information to provide enough context for creation of the intent.
+
+   > Note that the below are examples what the Joule Studio Web Agent might ask, there might well be other or additional questions and the questions might have varying choices.
 
     - Which types of product information should Sales Representatives be able to ask about? **Specify**: `Basic Product Details`
       <br>
@@ -39,7 +40,7 @@ After completing these steps you would have created a solution that comprise of 
       <br>
       <br>![](./images/9.ClarifyingQuestions-7.png)
 
-4. Interact with the Joule Studio Agent to create the Product Requirements Document
+6. Interact with the Joule Studio Agent to create the Product Requirements Document
 
     - Would you like to proceed to generating the Product Requirements Document (PRD), which will turn this intent into a detailed set of requirements for building the agent? **Specify**: `Yes`
       <br>
@@ -47,12 +48,12 @@ After completing these steps you would have created a solution that comprise of 
 
     - Does this PRD plan look correct? Shall I proceed with writing the full document? **Specify**: `Confirm - write PRD`
 
-5. Interact with the Joule Studio Agent to create the Specification that explains how the intent and PRD can be realized 
+7. Interact with the Joule Studio Agent to create the Specification that explains how the intent and PRD can be realized 
     - The natural next step is the Specification phase, where the PRD is turned into a detailed, actionable build checklist. Would you like to proceed? **Specify**: `Proceed with Specification`
       <br>
       <br>![](./images/12.CreateSpec.png)
 
-6. Interact with Joule Studio Agent to build the solution based on the Specification, PRD and Intent
+8. Interact with Joule Studio Agent to build the solution based on the Specification, PRD and Intent
 
     - You can review and adjust the spec files before building. When ready, say "execute specification/specification.md" to start the implementation. **Specify**: `execute specification/specification.md`
       <br>
