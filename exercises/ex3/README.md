@@ -117,11 +117,17 @@ After completing these steps you will learn test your agent as an end user.
 
 1. Ask the instructor to grant you access to try out your agent
 
-2. Navigate to Manage > Overview and select Agent > 'Try Now'
+2. Log-off and Log back in with same user `ad161-0XX` and the password that was provided earlier
+      <br>
+      <br>![](./images/SignOut.png)
+      <br>
+      <br>![](./images/SignInAgain.png)       
+
+4. Navigate to Manage > Overview and select Agent > 'Try Now'
       <br>
       <br>![](./images/23.TryOut-AfterDeployment.png)  
 
-3. Interact with your agent with a few questions and observe it's response
+5. Interact with your agent with a few questions and observe it's response
     - `List 5 products`
 
     - `List top 5 products sold last month`
