@@ -4,7 +4,7 @@ In this exercise, we will push your solution to git and learn how to promote it 
 
 > **Note:** You would need a user in GitHub and an Organization to proceed with this exercise.
 
-## Exercise 2.1 Push Solution to Git
+## Exercise 4.1 Push Solution to Git
 
 After completing these steps you will have learnt how to connect your solution to git and push changes to git
 
@@ -35,7 +35,7 @@ After completing these steps you will have learnt how to connect your solution t
       <br>![](./images/6.PushSolutionToGit.png)  
 
 
-## Exercise 2.2 Promote your Solution
+## Exercise 4.2 Promote your Solution
 
 1. Navigate to your repository and Select `Actions`
       <br>
