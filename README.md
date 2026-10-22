@@ -22,7 +22,6 @@ This session introduces attendees to SAP Joule Studio. In this session attendees
 - Joule Studio
 - Browser on the laptop (Chrome)
 - Exercise 4 requires you to have your own git repository
-- Browser on the laptop (preferably Chrome)
 
 > All required tools and services have been pre-configured. You need a browser to get through this session
 
