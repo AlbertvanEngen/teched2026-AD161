@@ -4,7 +4,7 @@ In this exercise, you will learn how to interact with agents via Joule Work and 
 
 # Exercise 1.1 - Invoke Feedback Classifier Agent by interacting with Joule Work
 
-1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with user ad161-0XX and the password provided by the instructor. XX is a placeholder for a number that the instructor assigned to you.
+1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with user ad161-XXX and the password provided by the instructor. XX is a placeholder for a number that the instructor assigned to you.
 
 2. Select Joule Work > Conversations > + New and start a new Conversation. You will find the Conversations button in the left side pane.
 
