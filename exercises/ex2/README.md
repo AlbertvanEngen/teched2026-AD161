@@ -6,7 +6,7 @@ In this exercise, we will monitor deployed solutions and step into agent monitor
 
 After completing these steps you will learn how to understand if the solution and comprising agent is running, deployment history and if invocations have been successful. 
 
-1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with ad161-0XX and the provided password
+1. Using a browser (preferably Chrome) launch Joule Work: https://747401964.eu10.sapdas.cloud.sap/new/conversations with ad161-XXX and the provided password
 
 2. Select Joule Work > Joule Studio > Sentiment Agent
    <br>
